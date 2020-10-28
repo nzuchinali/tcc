@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(112, 74, 124);
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
